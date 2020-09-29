@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="2" ignored="0" total="6" passed="4">
+  <reporter-output>
+    <line>
+      <![CDATA[ClickOnAboutUsLinkTest test started successfully.]]>
+    </line>
+    <line>
+      <![CDATA[ClickOnAboutUsLinkTest test passed successfully.]]>
+    </line>
+    <line>
+      <![CDATA[HomePageLogoTest test started successfully.]]>
+    </line>
+    <line>
+      <![CDATA[HomePageLogoTest test passed successfully.]]>
+    </line>
+    <line>
+      <![CDATA[HomePageTitleTest test started successfully.]]>
+    </line>
+    <line>
+      <![CDATA[HomePageTitleTest test passed successfully.]]>
+    </line>
+    <line>
+      <![CDATA[LoginTestWithLoginMessage test started successfully.]]>
+    </line>
+    <line>
+      <![CDATA[LoginTestWithLoginMessage test failed]]>
+    </line>
+    <line>
+      <![CDATA[LoginTestWithLoginPageTitle test started successfully.]]>
+    </line>
+    <line>
+      <![CDATA[LoginTestWithLoginPageTitle test failed]]>
+    </line>
+    <line>
+      <![CDATA[LogoCaptionTest test started successfully.]]>
+    </line>
+    <line>
+      <![CDATA[LogoCaptionTest test passed successfully.]]>
+    </line>
+  </reporter-output>
+  <suite name="Regression" duration-ms="137479" started-at="2020-09-29T23:59:40 IST" finished-at="2020-09-30T00:01:57 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="137479" started-at="2020-09-29T23:59:40 IST" finished-at="2020-09-30T00:01:57 IST">
+      <class name="com.parabank.testcases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="setUp" is-config="true" duration-ms="30052" started-at="2020-09-29T23:59:40 IST" finished-at="2020-09-30T00:00:10 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnAboutUsLinkTest()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="ClickOnAboutUsLinkTest" duration-ms="1726" started-at="2020-09-30T00:00:10 IST" finished-at="2020-09-30T00:00:11 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[ClickOnAboutUsLinkTest test started successfully.]]>
+            </line>
+            <line>
+              <![CDATA[ClickOnAboutUsLinkTest test passed successfully.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnAboutUsLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="tearDown" is-config="true" duration-ms="68" started-at="2020-09-30T00:00:11 IST" finished-at="2020-09-30T00:00:11 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="setUp" is-config="true" duration-ms="11346" started-at="2020-09-30T00:00:11 IST" finished-at="2020-09-30T00:00:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageLogoTest()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="HomePageLogoTest" duration-ms="33" started-at="2020-09-30T00:00:23 IST" finished-at="2020-09-30T00:00:23 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[HomePageLogoTest test started successfully.]]>
+            </line>
+            <line>
+              <![CDATA[HomePageLogoTest test passed successfully.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="tearDown" is-config="true" duration-ms="60" started-at="2020-09-30T00:00:23 IST" finished-at="2020-09-30T00:00:23 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="setUp" is-config="true" duration-ms="27244" started-at="2020-09-30T00:00:23 IST" finished-at="2020-09-30T00:00:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="HomePageTitleTest()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="HomePageTitleTest" duration-ms="4" started-at="2020-09-30T00:00:50 IST" finished-at="2020-09-30T00:00:50 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[HomePageTitleTest test started successfully.]]>
+            </line>
+            <line>
+              <![CDATA[HomePageTitleTest test passed successfully.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- HomePageTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="tearDown" is-config="true" duration-ms="56" started-at="2020-09-30T00:00:50 IST" finished-at="2020-09-30T00:00:50 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="setUp" is-config="true" duration-ms="24599" started-at="2020-09-30T00:00:50 IST" finished-at="2020-09-30T00:01:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="LoginTestWithLoginMessage()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="LoginTestWithLoginMessage" duration-ms="4685" started-at="2020-09-30T00:01:15 IST" finished-at="2020-09-30T00:01:19 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[LoginPage login message mismatch expected [Accounts Overview] but found [Error!]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: LoginPage login message mismatch expected [Accounts Overview] but found [Error!]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at com.parabank.testcases.HomePageTest.LoginTestWithLoginMessage(HomePageTest.java:39)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[LoginTestWithLoginMessage test started successfully.]]>
+            </line>
+            <line>
+              <![CDATA[LoginTestWithLoginMessage test failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTestWithLoginMessage -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="tearDown" is-config="true" duration-ms="59" started-at="2020-09-30T00:01:20 IST" finished-at="2020-09-30T00:01:20 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="setUp" is-config="true" duration-ms="9661" started-at="2020-09-30T00:01:20 IST" finished-at="2020-09-30T00:01:30 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="LoginTestWithLoginPageTitle()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="LoginTestWithLoginPageTitle" duration-ms="910" started-at="2020-09-30T00:01:30 IST" finished-at="2020-09-30T00:01:31 IST">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[LoginPage title mismatch expected [ParaBank | Accounts Overview] but found [ParaBank | Error]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: LoginPage title mismatch expected [ParaBank | Accounts Overview] but found [ParaBank | Error]
+at org.testng.Assert.fail(Assert.java:97)
+at org.testng.Assert.assertEqualsImpl(Assert.java:136)
+at org.testng.Assert.assertEquals(Assert.java:118)
+at org.testng.Assert.assertEquals(Assert.java:575)
+at com.parabank.testcases.HomePageTest.LoginTestWithLoginPageTitle(HomePageTest.java:45)
+at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+at java.lang.reflect.Method.invoke(Method.java:498)
+at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:134)
+at org.testng.internal.TestInvoker.invokeMethod(TestInvoker.java:597)
+at org.testng.internal.TestInvoker.invokeTestMethod(TestInvoker.java:173)
+at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:46)
+at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:816)
+at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:146)
+at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
+at java.util.ArrayList.forEach(ArrayList.java:1249)
+at org.testng.TestRunner.privateRun(TestRunner.java:766)
+at org.testng.TestRunner.run(TestRunner.java:587)
+at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
+at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
+at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
+at org.testng.SuiteRunner.run(SuiteRunner.java:286)
+at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
+at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
+at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)
+at org.testng.TestNG.runSuitesLocally(TestNG.java:1109)
+at org.testng.TestNG.runSuites(TestNG.java:1039)
+at org.testng.TestNG.run(TestNG.java:1007)
+at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
+at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[LoginTestWithLoginPageTitle test started successfully.]]>
+            </line>
+            <line>
+              <![CDATA[LoginTestWithLoginPageTitle test failed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LoginTestWithLoginPageTitle -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="tearDown" is-config="true" duration-ms="58" started-at="2020-09-30T00:01:31 IST" finished-at="2020-09-30T00:01:31 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="setUp" is-config="true" duration-ms="25906" started-at="2020-09-30T00:01:31 IST" finished-at="2020-09-30T00:01:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LogoCaptionTest()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="LogoCaptionTest" duration-ms="13" started-at="2020-09-30T00:01:57 IST" finished-at="2020-09-30T00:01:57 IST">
+          <reporter-output>
+            <line>
+              <![CDATA[LogoCaptionTest test started successfully.]]>
+            </line>
+            <line>
+              <![CDATA[LogoCaptionTest test passed successfully.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- LogoCaptionTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.parabank.testcases.HomePageTest@1990a65e]" name="tearDown" is-config="true" duration-ms="55" started-at="2020-09-30T00:01:57 IST" finished-at="2020-09-30T00:01:57 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.parabank.testcases.HomePageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Regression -->
+</testng-results>
