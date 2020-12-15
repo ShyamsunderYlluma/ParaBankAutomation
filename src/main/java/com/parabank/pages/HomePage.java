@@ -7,7 +7,6 @@ import org.openqa.selenium.support.PageFactory;
 
 import com.parabank.testbase.TestBase;
 
-
 public class HomePage extends TestBase{
 
 	public HomePage() {}
